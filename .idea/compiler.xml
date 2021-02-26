@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Parking_Lot-task" target="1.8" />
+      <module name="Parking_Lot-task_main" target="1.8" />
+      <module name="Parking_Lot-task_test" target="1.8" />
+      <module name="Problems-First,_second,_third" target="1.8" />
+      <module name="Problems-First,_second,_third_main" target="1.8" />
+      <module name="Problems-First,_second,_third_test" target="1.8" />
+      <module name="Problems-Fix_the_program" target="1.8" />
+      <module name="Problems-Fix_the_program_main" target="1.8" />
+      <module name="Problems-Fix_the_program_test" target="1.8" />
+      <module name="Problems-Four_numbers" target="1.8" />
+      <module name="Problems-Four_numbers_main" target="1.8" />
+      <module name="Problems-Four_numbers_test" target="1.8" />
+      <module name="Problems-From_0_to_9" target="1.8" />
+      <module name="Problems-From_0_to_9_main" target="1.8" />
+      <module name="Problems-From_0_to_9_test" target="1.8" />
+      <module name="Problems-Hello,_Kotlin" target="1.8" />
+      <module name="Problems-Hello,_Kotlin_main" target="1.8" />
+      <module name="Problems-Hello,_Kotlin_test" target="1.8" />
+      <module name="Problems-Printing_each_word_in_a_new_line" target="1.8" />
+      <module name="Problems-Printing_each_word_in_a_new_line_main" target="1.8" />
+      <module name="Problems-Printing_each_word_in_a_new_line_test" target="1.8" />
+      <module name="Problems-The_eternal_truth" target="1.8" />
+      <module name="Problems-The_eternal_truth_main" target="1.8" />
+      <module name="Problems-The_eternal_truth_test" target="1.8" />
+      <module name="Problems-The_Hello_World_program" target="1.8" />
+      <module name="Problems-The_Hello_World_program_main" target="1.8" />
+      <module name="Problems-The_Hello_World_program_test" target="1.8" />
+      <module name="Problems-The_result_of_a_game_in_Tic-Tac-Toe" target="1.8" />
+      <module name="Problems-The_result_of_a_game_in_Tic-Tac-Toe_main" target="1.8" />
+      <module name="Problems-The_result_of_a_game_in_Tic-Tac-Toe_test" target="1.8" />
+      <module name="Problems-We_need_to_learn_Kotlin" target="1.8" />
+      <module name="Problems-We_need_to_learn_Kotlin_main" target="1.8" />
+      <module name="Problems-We_need_to_learn_Kotlin_test" target="1.8" />
+      <module name="util" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
